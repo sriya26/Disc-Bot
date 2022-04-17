@@ -119,7 +119,7 @@ client.on('message', async (message) => {
 client.login('process.env.DISCORD_BOT_TOKEN');
 
 
-OTU2NjQ2MTgyNjI3NzI1MzUy.YjzQLw.t9x3_8pP5MYBeokdBGm3rkBM9jQ
+
 
 
 
